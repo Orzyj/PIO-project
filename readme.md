@@ -80,4 +80,4 @@ W przypadku systemu dla Przychodni  wyróżniamy takie klasy.
     *Data pierwszej wizyty (data)
     *Diagnoza (string)
     *Opis leczenia (string)
-    *Pacjent (obiekt klasy Pacjent)
+    *Pacjent (obiekt klasy Pacjent).
